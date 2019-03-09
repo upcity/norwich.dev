@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A6F78282-A8B3-416A-A2A4-4DC7271EC7A6",
+  "do_objectID": "31234965-43C3-4DC5-8344-76FF7392036F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 23,
+    "width": 246,
+    "x": 597,
+    "y": 1105
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,15 +33,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "EA8784CD-741D-44A2-B662-3B4DC8061015"
-    },
-    {
-      "class": "shapePath",
-      "id": "6A5CDAE3-E42C-4B2E-9DAD-28FCA7DABE6A"
+      "class": "text",
+      "id": "184D53BA-9D73-4181-A96E-0E1ECEB719B1"
     }
   ],
-  "name": "Home",
+  "name": "Footer",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,11 +49,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

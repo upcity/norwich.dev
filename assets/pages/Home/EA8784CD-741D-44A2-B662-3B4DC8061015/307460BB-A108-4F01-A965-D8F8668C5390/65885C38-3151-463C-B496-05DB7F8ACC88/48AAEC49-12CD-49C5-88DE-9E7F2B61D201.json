@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AppleColorEmoji",
-              "size": 32
+              "name": "Roboto-Regular",
+              "size": 16
             }
           },
-          "kerning": 0.7111111,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,20 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "🏢"
+    "string": "Contribute"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E436DEF3-B9A5-4C92-BCA9-EDBDE47161F4",
+  "do_objectID": "48AAEC49-12CD-49C5-88DE-9E7F2B61D201",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9FB338EA-FB73-4862-8852-01089DE0314A",
+    "do_objectID": "C2FF4A63-E66B-432B-85B7-432BDBA401C5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "758EDBF2-AE83-4C3A-A315-AE03A96D6EBD",
-    "height": 42,
-    "width": 33,
-    "x": 184,
-    "y": 1152
+    "height": 19,
+    "width": 75,
+    "x": 919,
+    "y": 12
   },
-  "glyphBounds": "{{0, 2}, {33, 33}}",
+  "glyphBounds": "{{0, 3}, {74, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "🏢",
+  "name": "Contribute",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,13 +74,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "91824B5B-F3F8-4BF8-B89F-EF4B1D7E75E8",
+    "do_objectID": "ED1E803B-F6CF-43CF-A9CF-B08142065B2D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "023F04F6-2AAA-49A3-A98C-90D13708A7CA",
+      "do_objectID": "E9145516-4F09-4F73-8B68-E60C1EE5A25E",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,11 +92,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AppleColorEmoji",
-            "size": 32
+            "name": "Roboto-Regular",
+            "size": 16
           }
         },
-        "kerning": 0.7111111,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

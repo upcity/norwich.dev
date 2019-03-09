@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38364BAF-A71D-4BF1-82F1-BA8507D83224",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FE5449D-0A38-4954-8B4D-F4BB6BEF040B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "775D8A06-0492-40ED-8515-539A17160CA5",
+    "height": 189,
+    "width": 999,
+    "x": 220,
+    "y": 579
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Coders",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64BDD77E-E73C-45FB-878B-0EB9B18869D6",
+      "overrideName": "CFDF3016-4FFD-4B50-96BA-A2D742A9DE09_stringValue",
+      "value": "Coders"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EE3A1EA-DFAA-47BC-AC26-7AA93E3FC92E",
+      "overrideName": "08E5A3A6-CB35-4714-B0B5-7F8D52EEA4D5_stringValue",
+      "value": "👾"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "406ED11C-8960-472C-86DF-8A6DE13A9779",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06996C53-C5C3-49A3-9833-2838891C53D2",
+  "verticalSpacing": 0
+}

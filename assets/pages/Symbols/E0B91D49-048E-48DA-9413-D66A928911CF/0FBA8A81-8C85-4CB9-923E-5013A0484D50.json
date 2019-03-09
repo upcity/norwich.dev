@@ -20,9 +20,9 @@
     "constrainProportions": false,
     "do_objectID": "3ABEA2DD-D28B-4602-BDE6-F92A7E4205AF",
     "height": 131,
-    "width": 244,
-    "x": 1012,
-    "y": 451
+    "width": 231,
+    "x": 768,
+    "y": 58
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -147,7 +147,7 @@
         "blurRadius": 4,
         "color": {
           "_class": "color",
-          "alpha": 0.1518908514492754,
+          "alpha": 0.05,
           "blue": 0,
           "green": 0,
           "red": 0

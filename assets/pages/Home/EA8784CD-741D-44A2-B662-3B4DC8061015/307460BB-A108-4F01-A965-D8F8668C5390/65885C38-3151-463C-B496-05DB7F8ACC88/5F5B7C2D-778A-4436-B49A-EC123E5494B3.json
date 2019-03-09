@@ -16,11 +16,11 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "RobotoCondensed-Bold",
-              "size": 20
+              "name": "Roboto-Regular",
+              "size": 16
             }
           },
-          "kerning": 0.5333334,
+          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "about"
+    "string": "About"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "691B0D35-4F2C-4DE4-AD82-A2A37F318EF3",
-    "height": 26,
-    "width": 48,
-    "x": 1030,
-    "y": 43
+    "height": 19,
+    "width": 43,
+    "x": 854,
+    "y": 12
   },
-  "glyphBounds": "{{0, 5}, {47, 17}}",
+  "glyphBounds": "{{0, 3}, {43, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "about",
+  "name": "About",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -93,11 +93,11 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "RobotoCondensed-Bold",
-            "size": 20
+            "name": "Roboto-Regular",
+            "size": 16
           }
         },
-        "kerning": 0.5333334,
+        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,

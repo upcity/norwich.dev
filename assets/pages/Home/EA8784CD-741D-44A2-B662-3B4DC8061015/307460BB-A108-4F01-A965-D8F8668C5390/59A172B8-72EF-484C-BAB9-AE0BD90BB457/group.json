@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "A6F78282-A8B3-416A-A2A4-4DC7271EC7A6",
+  "do_objectID": "59A172B8-72EF-484C-BAB9-AE0BD90BB457",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
+    "height": 517,
+    "width": 1446,
     "x": 0,
     "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,15 +33,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "EA8784CD-741D-44A2-B662-3B4DC8061015"
+      "class": "rectangle",
+      "id": "40B5C3E0-EBC9-45CD-95DB-3CF712582D43"
     },
     {
-      "class": "shapePath",
-      "id": "6A5CDAE3-E42C-4B2E-9DAD-28FCA7DABE6A"
+      "class": "bitmap",
+      "id": "B03DDBCE-49C6-46DD-AD2E-CF0B439601D3"
+    },
+    {
+      "class": "rectangle",
+      "id": "88EF7E40-2CDE-474F-8D11-5DF8C947A928"
     }
   ],
-  "name": "Home",
+  "name": "Header Image",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,11 +57,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
   }
 }

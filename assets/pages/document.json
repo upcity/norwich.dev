@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -28,11 +32,12 @@
     ]
   },
   "meta": {
-    "appVersion": "52.5",
-    "build": 67469,
-    "version": 112
+    "appVersion": "53.2",
+    "build": 72643,
+    "version": 116
   },
   "pages": [
-    "Home"
+    "Home",
+    "Symbols"
   ]
 }

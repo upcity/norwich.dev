@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61A8CBD6-DF17-48B3-AB32-1D2C946172D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B44F0EF-662F-4BF4-887E-2B3A90BD3DA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14C45C8F-BDAF-4CF9-B5D3-6389E1BA9521",
+    "height": 189,
+    "width": 999,
+    "x": 220,
+    "y": 830
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Jobs",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64BDD77E-E73C-45FB-878B-0EB9B18869D6",
+      "overrideName": "CFDF3016-4FFD-4B50-96BA-A2D742A9DE09_stringValue",
+      "value": "Jobs"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EE3A1EA-DFAA-47BC-AC26-7AA93E3FC92E",
+      "overrideName": "08E5A3A6-CB35-4714-B0B5-7F8D52EEA4D5_stringValue",
+      "value": "🏢"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDD5D806-C57B-48E3-AB05-7B110E71DEB1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "06996C53-C5C3-49A3-9833-2838891C53D2",
+  "verticalSpacing": 0
+}
