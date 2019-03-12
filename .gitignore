@@ -206,7 +206,7 @@ typings/
 .cache
 
 # next.js build output
-.next
+.nuxt
 
 # Nuxt generate
 dist
